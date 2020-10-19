@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b277c0e5-ddc1-4a4d-990d-4025c6c65e99" name="Default Changelist" comment="adding html file and image file">
-      <change beforePath="$PROJECT_DIR$/speakers/c03x_sorkin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603134937711</updated>
       <workItem from="1603134939555" duration="20000" />
-      <workItem from="1603135616031" duration="744000" />
+      <workItem from="1603135616031" duration="854000" />
     </task>
     <task id="LOCAL-00001" summary="adding html file and image file">
       <created>1603136051173</created>
@@ -59,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603136051173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding html file and image file">
+      <created>1603136368794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603136368794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding html file and image file">
+      <created>1603136386129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603136386129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,10 +103,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603134957283" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603136058140">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603136395853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603136058140" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603136395853" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603135672095">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
